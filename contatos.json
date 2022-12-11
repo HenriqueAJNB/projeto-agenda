@@ -1,0 +1,19 @@
+{
+    "contatos": [
+        {
+            "nome": "Henrique",
+            "sobrenome": "Branco",
+            "telefone": 123456789
+        },
+        {
+            "nome": "Silvio",
+            "sobrenome": "Cezarotto",
+            "telefone": 987654321
+        },
+        {
+            "nome": "xpto",
+            "sobrenome": "da Silva",
+            "telefone": 456789123
+        }
+    ]
+}
